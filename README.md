@@ -4,11 +4,7 @@ To Do List
 </h1>
 
 <p align="center"> 🚀 A simple To Do List application with create, edit and check items.
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
+
 
 ## Features
 
