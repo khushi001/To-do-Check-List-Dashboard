@@ -35,17 +35,3 @@ yarn install
 yarn start
 ```
 Once the process is finished, the `localhost: 3000` page will automatically open in your browser with the developed application
-
-### Insomnia 
-To test the To Do List API, download and install [Insomnia] (https://insomnia.rest/download/) and then click on Workspace → `Import / Export` →` Import Data` → `From File` → and select the `Insomnia.json` file from this repository.
-
-## How to contribute
-- First leave a ⭐!
-- Fork the repositories in production as they are updated: <a href="https://github.com/guilhermeorcezi/todolist"> MonoRepo;</a>
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My new feature'`;
-- Push to your branch: `git push origin my-feature`.
-
-## License
-
-This project is licensed by MIT License - Go to the [licence page](https://opensource.org/licenses/MIT) to see more details.
